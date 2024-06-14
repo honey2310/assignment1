@@ -1,2 +1,2 @@
 <h1 align="center"> Assignment 1 </h1>
-<img src="assigment/assign.png">
+<img src="assigment1/assign.png">
